@@ -1,0 +1,4 @@
+package CountBitmap
+
+class ApplicationServer {
+}
