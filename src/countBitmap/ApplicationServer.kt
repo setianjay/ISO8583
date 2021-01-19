@@ -1,4 +1,4 @@
-package CountBitmap
+package countBitmap
 
 class ApplicationServer {
 }

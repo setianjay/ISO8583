@@ -1,4 +1,4 @@
-package CountBitmap
+package countBitmap
 
 fun main() {
     val applClient = ApplicationClient()
