@@ -1,6 +1,6 @@
-package countBitmap
+import ApplicationClient
 
 fun main() {
     val applClient = ApplicationClient()
-    applClient.main()
+    applClient.client()
 }
